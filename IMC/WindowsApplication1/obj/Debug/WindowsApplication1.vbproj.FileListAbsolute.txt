@@ -1,0 +1,11 @@
+E:\CARRERA DE INGENIERIA DE SISTEMAS\VII CICLO\EVOLUCIÓN DE SOFTWARE\examen final\IMC\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+E:\CARRERA DE INGENIERIA DE SISTEMAS\VII CICLO\EVOLUCIÓN DE SOFTWARE\examen final\IMC\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+E:\CARRERA DE INGENIERIA DE SISTEMAS\VII CICLO\EVOLUCIÓN DE SOFTWARE\examen final\IMC\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+E:\CARRERA DE INGENIERIA DE SISTEMAS\VII CICLO\EVOLUCIÓN DE SOFTWARE\examen final\IMC\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+E:\CARRERA DE INGENIERIA DE SISTEMAS\VII CICLO\EVOLUCIÓN DE SOFTWARE\examen final\IMC\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+E:\CARRERA DE INGENIERIA DE SISTEMAS\VII CICLO\EVOLUCIÓN DE SOFTWARE\examen final\IMC\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+E:\CARRERA DE INGENIERIA DE SISTEMAS\VII CICLO\EVOLUCIÓN DE SOFTWARE\examen final\IMC\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+E:\CARRERA DE INGENIERIA DE SISTEMAS\VII CICLO\EVOLUCIÓN DE SOFTWARE\examen final\IMC\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+E:\CARRERA DE INGENIERIA DE SISTEMAS\VII CICLO\EVOLUCIÓN DE SOFTWARE\examen final\IMC\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+E:\CARRERA DE INGENIERIA DE SISTEMAS\VII CICLO\EVOLUCIÓN DE SOFTWARE\examen final\IMC\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+E:\CARRERA DE INGENIERIA DE SISTEMAS\VII CICLO\EVOLUCIÓN DE SOFTWARE\examen final\IMC\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
